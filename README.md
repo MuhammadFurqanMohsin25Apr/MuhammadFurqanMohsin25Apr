@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌I am currently focused on learning Data Structures and Algorithms (DSA) and Full Stack development using the MERN stack.<br>🤝In the future, I look forward to collaborating on projects related to Data Structures and Algorithms (DSA) and Artificial Intelligence (AI).<br>📚I am currently learning Data Structures and Algorithms (DSA), Full Stack development using the MERN stack, and SQL.<br>💡I have some knowledge of front-end development and can discuss related topics.<br>🚀I am highly enthusiastic about Data Structures and Algorithms (DSA) and enjoy problem-solving challenges.
+📌I am currently focused on learning Data Structures and Algorithms (DSA) and Data Science.<br>🤝In the future, I look forward to collaborating on projects related to Data Structures and Algorithms (DSA) and Artificial Intelligence (AI).<br>📚I am currently learning Data Structures and Algorithms (DSA),Data Science, and SQL.<br>🚀I am highly enthusiastic about Data Structures and Algorithms (DSA) and enjoy problem-solving challenges.
 
 
 ## 🌐 Socials:
