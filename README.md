@@ -34,8 +34,8 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadFurqanMohsin25Apr&theme=dark&include_all_commits=true&show_icons=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadFurqanMohsin25Apr&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFurqanMohsin25Apr&theme=dark&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
