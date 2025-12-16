@@ -34,8 +34,10 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadFurqanMohsin25Apr&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadFurqanMohsin25Apr&show_icons=true&theme=dark)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFurqanMohsin25Apr&theme=github-dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFurqanMohsin25Apr&theme=dark&layout=compact)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
