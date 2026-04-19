@@ -77,7 +77,7 @@ class FurqanMohsin:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&perline=6&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp; **Data Science & Analytics**
 
@@ -93,7 +93,7 @@ class FurqanMohsin:
 <img src="https://img.icons8.com/color/48/power-bi.png" height="50"/>
 
 </div>
-<br/><br/>
+<br/>
 
  &nbsp; **Databases**
 
@@ -107,9 +107,9 @@ class FurqanMohsin:
 </div>
 
 <br/><br/>
+
  &nbsp; **Tools & Design**
 
-<br/>
 
 <div align="center">
 
@@ -133,11 +133,11 @@ class FurqanMohsin:
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFurqanMohsin25Apr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=00D4FF&icon_color=A259FF&text_color=FFFFFF&ring_color=00D4FF" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFurqanMohsin25Apr&theme=radical&hide_border=true&background=0D0D0D&ring=00D4FF&fire=A259FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=A0AEC0" width="49%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFurqanMohsin25Apr&theme=radical&hide_border=true&layout=donut&bg_color=0D0D0D&title_color=00D4FF&text_color=FFFFFF" width="45%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadFurqanMohsin25Apr&bg_color=0D0D0D&color=00D4FF&line=A259FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=Furqan's%20Contribution%20Graph" width="95%" />
 
