@@ -49,7 +49,7 @@ class FurqanMohsin:
     location   = "Karachi, Pakistan 🇵🇰"
     focus      = ["DSA", "Data Science", "SQL", "AI"]
     learning   = ["Algorithms", "ML", "PostgreSQL"]
-    goal       = "AI/ML Engineer & DSA Expert"
+    goal       = "Developer, AI/ML Engineer & DSA Expert"
     open_to    = "Collaborations & Exciting Projects"
     fun_fact   = "I debug code faster than I debug life 😄"
 ```
