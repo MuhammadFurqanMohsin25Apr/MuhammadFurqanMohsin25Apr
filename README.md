@@ -78,7 +78,7 @@ class FurqanMohsin:
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css&perline=7&theme=dark" />
 
-<br/>
+<br/><br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp; **Data Science & Analytics**
 
@@ -94,18 +94,6 @@ class FurqanMohsin:
 </div>
 
 <br/>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> &nbsp; **Full Stack Development**
-
-<br/>
-
-<div align="center" style="white-space: nowrap;">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase&theme=dark" />
-
-</div>
-
-<br/><br/>
 
 &nbsp; **Databases**
 
@@ -141,13 +129,8 @@ class FurqanMohsin:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuhammadFurqanMohsin25Apr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=00D4FF&icon_color=A259FF&text_color=FFFFFF&ring_color=00D4FF" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFurqanMohsin25Apr&theme=radical&hide_border=true&background=0D0D0D&ring=00D4FF&fire=A259FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=A0AEC0" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadFurqanMohsin25Apr&theme=radical&hide_border=true&layout=donut&bg_color=0D0D0D&title_color=00D4FF&text_color=FFFFFF" width="45%" />
 
 <br/>
 
