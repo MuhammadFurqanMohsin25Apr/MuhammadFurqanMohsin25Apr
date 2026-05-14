@@ -1,14 +1,14 @@
 <!-- ████████████████████ ANIMATED HERO ████████████████████ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,40:1A1A2E,70:16213E,100:0F3460&height=260&section=header&text=Muhammad%20Furqan%20Mohsin&fontSize=42&fontColor=00D4FF&fontAlignY=45&desc=Data%20Science%20%7C%20DSA%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=65&descColor=A0AEC0&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,40:1A1A2E,70:16213E,100:0F3460&height=260&section=header&text=Muhammad%20Furqan%20Mohsin&fontSize=42&fontColor=00D4FF&fontAlignY=45&desc=Data%20Science%20%7C%20AI%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=65&descColor=A0AEC0&animation=scaleIn)
 
 </div>
 
 <!-- ████████████████████ ANIMATED TYPING ████████████████████ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=750&height=65&lines=%E2%9A%A1+Mastering+Data+Structures+%26+Algorithms;%F0%9F%A7%A0+Building+AI+%26+Machine+Learning+Skills;%F0%9F%93%8A+Turning+Raw+Data+into+Insights;%F0%9F%92%BB+Writing+Clean+%26+Efficient+Code;%F0%9F%8C%9F+Always+Learning%2C+Never+Stopping)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=850&height=65&lines=%E2%9A%A1+Mastering+Data+Structures+%26+Algorithms;%F0%9F%A7%A0+Building+AI+%26+Machine+Learning+Projects;%F0%9F%92%BB+Exploring+MERN+Stack+Development;%F0%9F%93%8A+Turning+Raw+Data+into+Insights;%F0%9F%9A%80+Creating+Modern+Full+Stack+Applications;%F0%9F%8C%9F+Always+Learning%2C+Never+Stopping)](https://git.io/typing-svg)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ## About Me
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; **A passionate developer from Pakistan**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp; **A passionate AI & Full Stack Developer from Pakistan**
 
 <br/>
 
@@ -47,10 +47,11 @@
 class FurqanMohsin:
     name       = "Muhammad Furqan Mohsin"
     location   = "Karachi, Pakistan 🇵🇰"
-    focus      = ["DSA", "Data Science", "SQL", "AI"]
-    learning   = ["Algorithms", "ML", "PostgreSQL"]
-    goal       = "Developer, AI/ML Engineer & DSA Expert"
-    open_to    = "Collaborations & Exciting Projects"
+    focus      = ["DSA", "Data Science", "AI", "Full Stack Development"]
+    learning   = ["Machine Learning", "MERN Stack", "PostgreSQL", "System Design"]
+    tech_stack = ["Python", "C++", "JavaScript", "React", "Node.js", "MongoDB"]
+    goal       = "Software Engineer, AI/ML Engineer & Full Stack Developer"
+    open_to    = "Collaborations, Internships & Exciting Projects"
     fun_fact   = "I debug code faster than I debug life 😄"
 ```
 
@@ -75,14 +76,13 @@ class FurqanMohsin:
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&perline=6&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css&perline=7&theme=dark" />
 
 <br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp; **Data Science & Analytics**
 
 <br/>
-
 
 <div align="center" style="white-space: nowrap;">
 <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" />
@@ -91,11 +91,23 @@ class FurqanMohsin:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="50"/>
 <img src="https://img.icons8.com/color/48/tableau-software.png" height="50"/>
 <img src="https://img.icons8.com/color/48/power-bi.png" height="50"/>
-
 </div>
+
 <br/>
 
- &nbsp; **Databases**
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> &nbsp; **Full Stack Development**
+
+<br/>
+
+<div align="center" style="white-space: nowrap;">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase&theme=dark" />
+
+</div>
+
+<br/><br/>
+
+&nbsp; **Databases**
 
 <br/>
 
@@ -108,8 +120,7 @@ class FurqanMohsin:
 
 <br/><br/>
 
- &nbsp; **Tools & Design**
-
+&nbsp; **Tools & Design**
 
 <div align="center">
 
@@ -131,6 +142,7 @@ class FurqanMohsin:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFurqanMohsin25Apr&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=00D4FF&icon_color=A259FF&text_color=FFFFFF&ring_color=00D4FF" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadFurqanMohsin25Apr&theme=radical&hide_border=true&background=0D0D0D&ring=00D4FF&fire=A259FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=A0AEC0" width="49%" />
 
 <br/>
@@ -144,8 +156,6 @@ class FurqanMohsin:
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-
 
 <!-- ████████████████████ QUOTE ████████████████████ -->
 
@@ -169,10 +179,12 @@ class FurqanMohsin:
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
+
 <a href="mailto:furqanmohammed788@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
+
 <a href="https://www.kaggle.com/muhammedfurqanmohsin">
   <img src="https://img.shields.io/badge/View%20my%20Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
@@ -180,6 +192,7 @@ class FurqanMohsin:
 <br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> &nbsp;
+
 <em><b>I love connecting with new people</b> — if you want to say hi or collaborate, my inbox is always open! 😊</em>
 
 </div>
