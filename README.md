@@ -1,18 +1,12 @@
 <!-- ████████████████████ ANIMATED HERO ████████████████████ -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0D0D0D,40:1A1A2E,70:16213E,100:0F3460&height=260&section=header&text=Muhammad%20Furqan%20Mohsin&fontSize=42&fontColor=00D4FF&fontAlignY=45&desc=Data%20Science%20%7C%20AI%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=65&descColor=A0AEC0&animation=scaleIn)
+<h1>Muhammad Furqan Mohsin</h1><br>
+<h3>Software Engineer • AI/ML • Data Science • Full Stack Development</h3>
 
-</div>
+<br>
 
-<!-- ████████████████████ ANIMATED TYPING ████████████████████ -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=false&random=false&width=850&height=65&lines=%E2%9A%A1+Mastering+Data+Structures+%26+Algorithms;%F0%9F%A7%A0+Building+AI+%26+Machine+Learning+Projects;%F0%9F%92%BB+Exploring+MERN+Stack+Development;%F0%9F%93%8A+Turning+Raw+Data+into+Insights;%F0%9F%9A%80+Creating+Modern+Full+Stack+Applications;%F0%9F%8C%9F+Always+Learning%2C+Never+Stopping)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
+<br>
 
 <!-- ████████████████████ SOCIAL BADGES ████████████████████ -->
 <div align="center">
